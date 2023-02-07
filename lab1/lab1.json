@@ -1,0 +1,24 @@
+[
+    {
+        "faculty_name":"Faculty of law",
+        "FIO":"Mikolaj Yates",
+        "room":112,
+        "university_building":1122,
+        "phone":"+380663456677"
+    },
+    { 
+        "faculty_name":"Faculty of electronics",
+        "FIO":"James Cohen",
+        "room":235,
+        "university_building":2355,
+        "phone":"+380997775436"
+    },
+    {
+        "faculty_name":"Faculty of foreign languages",
+        "FIO":"Sara Baldwin",
+        "room":378,
+        "university_building":3788,
+        "phone":["+380997812334", "+380657789917", "+380664567893"]
+    }
+]
+ 
